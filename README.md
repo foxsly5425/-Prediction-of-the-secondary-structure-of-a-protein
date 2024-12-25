@@ -1,4 +1,4 @@
-# -Prediction-of-the-secondary-structure-of-a-protein
+# Prediction of the secondary structure of a protein
 
 
 Данный проект является промежуточной целью. Конечная цель - предсказание третичной структуры белка по его аминокислотной последовательности. 
