@@ -10,7 +10,6 @@ with open('amin_seq_second_struct.json', 'r') as file:
 sequences  = [entry['sequence'] for entry in data]
 structures = [entry['secondary_structure'] for entry in data]
 
-# Гене
 n_gramm_seq = []
 struct_seq = []
 for seq, struct in zip(sequences, structures):
